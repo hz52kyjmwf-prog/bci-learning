@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 数据文件（太大不进 git，放网盘或本地）
+*.edf
+*.bdf
+*.fif
+*.set
+*.fdt
+*.mat
+*.npy
+*.npz
+*.csv
+
+# 系统
+.DS_Store
